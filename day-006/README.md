@@ -1,4 +1,4 @@
-## Day 5 - Variables and Types (Python | Basics Of Python)
+## Day 6 - Variables and Types (Python | Basics Of Python)
 
 ### Problem: 
 Problem [Link](https://www.interviewbit.com/problems/variables-and-types/)
