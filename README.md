@@ -8,3 +8,4 @@
 | 2            | 03-01-2024 | Grep Log (Scripting - Basic Shell Commands) | https://www.interviewbit.com/problems/grep-log/ | https://github.com/roshan-lal-dia/365-days-of-code-2024/tree/main/day-002 |
 | 3            | 04-01-2024 | Tenth Line (Scripting - Basic Shell Commands) | https://www.interviewbit.com/problems/tenth-line/ | https://github.com/roshan-lal-dia/365-days-of-code-2024/tree/main/day-003 |
 | 4            | 06-01-2024 | Input and Output (Python - Basics Of Python) | https://www.interviewbit.com/problems/input-and-output/ | https://github.com/roshan-lal-dia/365-days-of-code-2024/tree/main/day-005 |
+| 5            | 07-01-2024 | Variables and Types (Python - Basics Of Python) | https://www.interviewbit.com/problems/variables-and-types/ | https://github.com/roshan-lal-dia/365-days-of-code-2024/tree/main/day-006 |
