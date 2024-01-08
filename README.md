@@ -9,3 +9,4 @@
 | 3            | 04-01-2024 | Tenth Line (Scripting - Basic Shell Commands) | https://www.interviewbit.com/problems/tenth-line/ | https://github.com/roshan-lal-dia/365-days-of-code-2024/tree/main/day-003 |
 | 4            | 06-01-2024 | Input and Output (Python - Basics Of Python) | https://www.interviewbit.com/problems/input-and-output/ | https://github.com/roshan-lal-dia/365-days-of-code-2024/tree/main/day-005 |
 | 5            | 07-01-2024 | Variables and Types (Python - Basics Of Python) | https://www.interviewbit.com/problems/variables-and-types/ | https://github.com/roshan-lal-dia/365-days-of-code-2024/tree/main/day-006 |
+| 6            | 08-01-2024 | Arithmetic operators on Numbers (Python - Basics Of Python) | https://www.interviewbit.com/problems/arithmetic-operators-on-numbers/ | https://github.com/roshan-lal-dia/365-days-of-code-2024/tree/main/day-007 |
