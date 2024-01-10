@@ -11,3 +11,4 @@
 | 5            | 07-01-2024 | Variables and Types (Python - Basics Of Python) | https://www.interviewbit.com/problems/variables-and-types/ | https://github.com/roshan-lal-dia/365-days-of-code-2024/tree/main/day-006 |
 | 6            | 08-01-2024 | Arithmetic operators on Numbers (Python - Basics Of Python) | https://www.interviewbit.com/problems/arithmetic-operators-on-numbers/ | https://github.com/roshan-lal-dia/365-days-of-code-2024/tree/main/day-007 |
 | 7            | 09-01-2024 | Arithmetic operators on Strings (Python - Basics Of Python) | https://www.interviewbit.com/problems/arithmetic-operators-on-strings/ | https://github.com/roshan-lal-dia/365-days-of-code-2024/tree/main/day-008 |
+| 8            | 10-01-2024 | Conditions and If-Else (Python - Flow Control & Functions) | https://www.interviewbit.com/problems/conditions-and-if-else/ | https://github.com/roshan-lal-dia/365-days-of-code-2024/tree/main/day-009 |
