@@ -1,4 +1,4 @@
-## Day 7 - Arithmetic operators on Strings (Python | Basics Of Python)
+## Day 8 - Arithmetic operators on Strings (Python | Basics Of Python)
 
 ### Problem: 
 Problem [Link](https://www.interviewbit.com/problems/arithmetic-operators-on-strings/)
